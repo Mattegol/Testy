@@ -7,8 +7,10 @@ namespace Testy.Controllers
     public class HomeController : Controller
     {
         // Comment added
+
         public IActionResult Index()
         {
+            // Feature 1 added
             return View();
         }
 
