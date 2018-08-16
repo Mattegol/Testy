@@ -16,6 +16,8 @@ namespace Testy.Controllers
 
         public IActionResult About()
         {
+            // Feature 2 added
+
             ViewData["Message"] = "Your application description page.";
 
             return View();
