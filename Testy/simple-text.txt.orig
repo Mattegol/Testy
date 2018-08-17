@@ -4,5 +4,8 @@ TGIF Thank Good It's Friday
 
 Today is a good day!
 Adding changes before rebase
-Making changes, just nothing but trouble from here on..
+<<<<<<< HEAD
 Making some silly conflicting changes in master
+=======
+Making changes, just nothing but trouble from here on..
+>>>>>>> fb adding some trouble to simple-text
