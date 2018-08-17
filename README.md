@@ -9,6 +9,7 @@ test test
 
 ## Deployment
 testing testing
+Some minor changes here
 
 ## How To Contribute
 testa testa
