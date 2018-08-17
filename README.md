@@ -1,5 +1,14 @@
 # Testy
+A simple demo repository to show the basic Git workflow
 
 ## Introduction
 
-A simple demo repository to show the basic Git workflow
+## Purpose
+
+## Deployment
+
+## How To Contribute
+
+
+
+
