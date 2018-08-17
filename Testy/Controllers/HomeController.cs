@@ -26,6 +26,7 @@ namespace Testy.Controllers
         public IActionResult Contact()
         {
             // Feature 6 added
+            // More changes in Fetaure 6
             ViewData["Message"] = "Your contact page.";
 
             return View();
