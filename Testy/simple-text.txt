@@ -4,3 +4,4 @@ TGIF Thank Good It's Friday
 
 Today is a good day!
 Adding changes before rebase
+Making some silly conflicting changes in master
