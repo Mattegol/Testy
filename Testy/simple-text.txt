@@ -6,4 +6,8 @@ Today is a good day!
 Adding changes before rebase
 Making changes, just nothing but trouble from here on..
 
+
 Changes from GitHub.
+
+Additional change right here.
+
