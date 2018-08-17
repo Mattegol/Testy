@@ -32,6 +32,7 @@ namespace Testy.Controllers
 
         public IActionResult Privacy()
         {
+            // Changes in branch master
             return View();
         }
 
