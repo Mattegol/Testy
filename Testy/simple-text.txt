@@ -5,4 +5,3 @@ TGIF Thank Good It's Friday
 Today is a good day!
 Adding changes before rebase
 Making changes, just nothing but trouble from here on..
-Making some silly conflicting changes in master
