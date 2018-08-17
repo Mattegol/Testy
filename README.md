@@ -13,6 +13,9 @@ testing testing
 ## How To Contribute
 testa testa
 
+## Copyright
+2018 Testy
+
 
 
 
