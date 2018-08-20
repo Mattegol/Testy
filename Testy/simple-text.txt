@@ -14,4 +14,8 @@ Additional change right here.
 Adding stash changes here.
 Additional changes
 
+<<<<<<< Updated upstream
 Emergency fix after stash.
+=======
+Changes added
+>>>>>>> Stashed changes
