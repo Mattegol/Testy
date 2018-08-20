@@ -11,3 +11,5 @@ Changes from GitHub.
 
 Additional change right here.
 
+Adding stash changes here.
+Additional changes
