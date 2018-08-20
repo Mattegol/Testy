@@ -7,6 +7,7 @@ namespace Testy.Controllers
     public class HomeController : Controller
     {
         // Comment added
+        // Some changes during stash
 
         public IActionResult Index()
         {
