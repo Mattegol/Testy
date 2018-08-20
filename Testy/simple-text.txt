@@ -18,3 +18,4 @@ Additional changes
 Emergency fix after stash.
 Changes added
 
+Tagging example
